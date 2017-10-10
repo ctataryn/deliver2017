@@ -16,3 +16,7 @@ default['tomcat']['admin']['uid'] = 'admin'
 default['tomcat']['admin']['pwd'] = 'adminpwd'
 default['tomcat']['build']['uid'] = 'build'
 default['tomcat']['build']['pwd'] = 'buildpwd'
+
+#Added service related memory contraints
+default['tomcat']['memory']['min'] = '512'
+default['tomcat']['memory']['max'] = '1024'
