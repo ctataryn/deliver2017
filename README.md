@@ -1,4 +1,4 @@
-# Infrastructure as Code - Application Server Management using Chef
+# Infrastructure as Code - Introduction to Chef
 
 Presented at the [PrDC Deliver 2017](http://prdcdeliver.com) conference, this session gives an overview of teh primary tenants of Chef and provides a demo recipe and set of supporting resources for installing Apache Tomcat on a Windows machine.
 
